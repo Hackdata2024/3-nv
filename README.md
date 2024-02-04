@@ -13,3 +13,6 @@ TEAM MATES DETAILS R.PRAVEEN KUMAR (Front end developer ) 8148402208 N.VIGNESHWA
 Next, choose a suitable technology stack for development. Design the user interface and experience, keeping in mind the app's usability for farmers. Develop the app in iterative cycles, regularly testing and gathering feedback. Integrate relevant APIs for weather forecasts, crop data, etc.
 
 Implement features like crop management, pest control, and yield predictions. Ensure data security and privacy compliance. Conduct thorough testing for functionality, performance, and security. Once satisfied, launch the app, monitor user feedback, and address any issues promptly. Regularly update the app to add new features and improve performance based on user feedback and market trends.
+
+Video submission Link:
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSdBVQNVIcQI4b8xuQHJkgUxNLZ38EsZackKSYOFIvJL7HKj-g/formResponse
